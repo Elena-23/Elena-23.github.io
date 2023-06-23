@@ -31,7 +31,7 @@ body {
 }
 
 .links {
-  width: 320px;
+  width: 350px;
   margin-bottom: 40px;
 }
 
@@ -71,7 +71,7 @@ body {
   padding: 0px 0px 10px;
   gap: 30px;
   border-bottom: 1px solid #dadada;
-  width: 280px;
+  width: 310px;
 }
 
 .links__link:last-child {
@@ -81,7 +81,7 @@ body {
 .linsk__link,
 .links__link:visited {
   text-decoration: none;
-  color: #3CB371;
+  color:#8c8664;
 }
 
 .links__title {
@@ -100,7 +100,7 @@ footer {
   align-items: center;
   padding: 10px;
   width: 320px;
-  background: #3CB371;
+  background: #8c8664;
   border-radius: 20px;
 
   font-size: 14px;
